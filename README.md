@@ -1,6 +1,6 @@
-# Dravidian Multi-Lingual Fake Text Detection
+# Dravidian Multi-Lingual AI-generated Reviews Detection
 
-A deep learning model for detecting AI-generated text in Dravidian languages using cultural, syntactic, and semantic analysis. The model employs a multi-modal architecture combining Indic-BERT with specialized encoders for comprehensive text analysis.
+A deep learning model for detecting AI-generated product reviews in Dravidian languages using cultural, syntactic, and semantic analysis. The model employs a multi-modal architecture combining Indic-BERT with specialized encoders for comprehensive text analysis.
 
 ## Features
 
