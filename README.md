@@ -106,35 +106,10 @@ DATA,LABEL
 
 ## Model Performance
 
-The model is evaluated using macro F1-score, considering both precision and recall for AI and human-generated text detection. The validation phase during training provides detailed classification reports.
+The model is evaluated using macro F1-score, considering both precision and recall for AI and human-generated text detection. The validation phase during training provides detailed classification reports. This framework was submitted as a part of Shared Task on Detecting AI generated product reviews in Dravidian languages: DravidianLangTech@NAACL 2025, where it achieved macro f1-scores of 0.93 on Tamil and 0.915 on Malayalam.
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/new-feature`
-3. Commit your changes: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Submit a pull request
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use this model in your research, please cite:
-
-```bibtex
-@software{dravidian_mlf_detector,
-  author = {Your Name},
-  title = {Dravidian Multi-Lingual Fake Text Detection},
-  year = {2024},
-  url = {https://github.com/yourusername/dravidian-mlf-detector}
-}
-```
-
-## Acknowledgments
-
-- AI4Bharat for the Indic-BERT model
-- The Hugging Face team for the transformers library
-- Contributors and maintainers of PyTorch
