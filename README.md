@@ -106,7 +106,7 @@ DATA,LABEL
 
 ## Model Performance
 
-The model is evaluated using macro F1-score, considering both precision and recall for AI and human-generated text detection. The validation phase during training provides detailed classification reports. This framework was submitted as a part of **Shared Task on Detecting AI generated product reviews in Dravidian lannguages: DravidianLangTech@NAACL 2025, where it achieved macro f1-scores of 0.93 on Tamil and 0.915 on Malayalam.**
+The model is evaluated using macro F1-score, considering both precision and recall for AI and human-generated text detection. The validation phase during training provides detailed classification reports. This framework was submitted as a part of **Shared Task on Detecting AI generated product reviews in Dravidian lannguages: DravidianLangTech@NAACL 2025, where it achieved macro f1-scores of 0.93 on Tamil and 0.915 on Malayalam.**
 
 
 ## License
